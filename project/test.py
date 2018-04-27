@@ -15,6 +15,7 @@ from tqdm import tqdm
 from sklearn.metrics import log_loss, accuracy_score
 # model = xception.Xception(weights="imagenet")
 
+
 INPUT_SIZE = 224
 SEED = 1987
 NUM_CLASSES = 16
